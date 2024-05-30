@@ -11,6 +11,6 @@
 </p>
 <p align="center">
   <a href="https://en.pronouns.page/@kefiiris">
-    <img src="https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/kefiiris-01HYCV8EV2HJ2AQT4EYC1KKPYE-dark.png"/>
+    <img src="https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/kefiiris-01HZ4J8FWN7NYX1ETGXD46XBKT-dark.png"/>
   </a>
 </p>
